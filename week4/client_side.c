@@ -32,7 +32,7 @@ Dưới đây là chương trình phía client
 #include <arpa/inet.h>
 #include <unistd.h>
 
-#define SERVER_ADDR "127.0.0.1"
+#define SERVER_ADDR "192.168.92.103"
 #define SERVER_PORT 8888
 
 int main() {
